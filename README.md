@@ -1,5 +1,7 @@
 # Pasta Fabric Service (Golang Edition)
 
+<img src="https://cdn.britannica.com/57/198157-050-503D66E9/artist-rendition-Flying-Spaghetti-Monster.jpg" width="300">
+
 A **Golang-based** web service that simulates **Meatball Monsters** working together to produce pasta! 🏭🍝
 
 ## Features
