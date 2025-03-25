@@ -35,7 +35,6 @@ Open `index.html` in your browser or navigate to:
 http://localhost:8080
 ```
 
-
 ## API Endpoints
 | Method | Endpoint    | Description                    |
 |--------|------------|--------------------------------|
