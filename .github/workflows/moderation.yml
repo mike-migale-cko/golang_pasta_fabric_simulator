@@ -35,6 +35,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.DEVOPS_BOT }}
         with:
-          delay_seconds: 5
+          delay_seconds: 100
           comment_body: "${{ github.event.comment.body }}" 
+
+      - name: Hello
+        uses: actions/checkout@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.DEVOPS_BOT }}
+        with:
+          script: echo $GITHUB_TOKEN
 
